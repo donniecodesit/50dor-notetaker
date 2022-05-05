@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-notetaker/static/css/main.3919a421.css",
+    "main.js": "/react-notetaker/static/js/main.0f07fa62.js",
+    "index.html": "/react-notetaker/index.html",
+    "main.3919a421.css.map": "/react-notetaker/static/css/main.3919a421.css.map",
+    "main.0f07fa62.js.map": "/react-notetaker/static/js/main.0f07fa62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3919a421.css",
+    "static/js/main.0f07fa62.js"
+  ]
+}
