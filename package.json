@@ -2,7 +2,7 @@
   "name": "17notetaker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://donniecodesit.github.io/react-notetaker",
+  "homepage": "https://donniecodesit.github.io/50dor-notetaker",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
     "@testing-library/jest-dom": "^5.16.4",
