@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/50dor-notetaker/static/css/main.3919a421.css",
-    "main.js": "/50dor-notetaker/static/js/main.0f07fa62.js",
+    "main.js": "/50dor-notetaker/static/js/main.ac05e9ce.js",
     "index.html": "/50dor-notetaker/index.html",
     "main.3919a421.css.map": "/50dor-notetaker/static/css/main.3919a421.css.map",
-    "main.0f07fa62.js.map": "/50dor-notetaker/static/js/main.0f07fa62.js.map"
+    "main.ac05e9ce.js.map": "/50dor-notetaker/static/js/main.ac05e9ce.js.map"
   },
   "entrypoints": [
     "static/css/main.3919a421.css",
-    "static/js/main.0f07fa62.js"
+    "static/js/main.ac05e9ce.js"
   ]
 }
