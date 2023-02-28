@@ -1,5 +1,5 @@
-## About This App 
-This is a React Note Taking Application built with React during Day 17 of a 50 Days of React Udemy Course.
+## About This App
+React project made during Day 17 of "50 Days of React" by Sufa Digital Media on Udemy.
 This application is a more complex form of a "to do list" application, allowing you to store notes to a react redux storage, and use dispatch methods to display them on the page.
 
 ## How To Install & Run
